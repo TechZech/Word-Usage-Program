@@ -1,6 +1,6 @@
 /*              DRIVER6.CPP
-        Ben Zech        Assignment 6
-        Mr. Myers       Due Friday, December 4th 11:59pm
+        Ben Zech        12/3/2020
+        All work was written by Benjamin Zech. *Do not steal or plagerize*
 */
 
 #include <iostream>
